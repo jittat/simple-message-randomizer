@@ -1,0 +1,1 @@
+This is a simple message randomizer.  Put your choices in `choices.txt`.  See an example in `choices.txt.SAMPLE`.
